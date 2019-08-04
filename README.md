@@ -1,2 +1,2 @@
 # FoodOrderingApp
-A Food ordering app for all tech geeks. 
+A Food ordering app for all tech geeks with source code.
